@@ -8,12 +8,12 @@
 
 1. Sales Dashboard 1 - 
 
-![Dashboard 1](Sales Dashboard 1.png)
+![Dashboard 1](https://github.com/adityabapat2003/retail-analysis-tableau/blob/f4dee5501b53013d761bb7f2a1376b62ff8d6e91/Sales%20Dashboard%201.png)
 
 
 2. Sales Dashboard 2 - 
 
-![Dashboard 2](Sales Dashboard 2.png)
+![Dashboard 2](https://github.com/adityabapat2003/retail-analysis-tableau/blob/f4dee5501b53013d761bb7f2a1376b62ff8d6e91/Sales%20Dashboard%202.png)
 
 
 

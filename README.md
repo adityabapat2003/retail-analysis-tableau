@@ -8,12 +8,12 @@
 
 1. Sales Dashboard 1 - 
 
-![Dashboard 1](Report/Sales%20Dashboard%201.png)
+![Dashboard 1](Sales Dashboard 1.png)
 
 
 2. Sales Dashboard 2 - 
 
-![Dashboard 2](Report/Sales%20Dashboard%202.png)
+![Dashboard 2](Sales Dashboard 2.png)
 
 
 
